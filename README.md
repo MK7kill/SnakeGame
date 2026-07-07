@@ -16,8 +16,6 @@
 
 直接在浏览器打开 `index.html` 即可游玩。
 
-或访问 GitHub Pages 在线版本：[点击这里](https://MK7kill.github.io/SnakeGame/)
-
 ## 🎯 操作
 
 | 按键 | 功能 |
